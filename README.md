@@ -1,0 +1,2 @@
+# BilibiliDownloadExtract
+可批量从Bilibili(Android)缓存文件中提取MP4/MKV格式的视频以及弹幕
